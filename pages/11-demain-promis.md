@@ -1,7 +1,9 @@
 ---
 layout: page
-title: La conf
-pitch: "A la manière d'une conférence TED..."
+title: "Demain promis"
+kind: Chanson
+pitch: "Y a t-il des dépressifs dans la salle ce soir ?"
+duration: "4"
 ---
 ### Lorem impsum dolor
 
